@@ -1,0 +1,20 @@
+neutrinos
+2,1,0,0,0,3
+# variable yy
+0.00005*xx**mm
+# x axis
+1.
+#obj function
+BC*(yy - dd)**2 + (xx - xaxis)**2
+#states
+yy
+xx
+# PARAMETERS
+mm
+#control names
+#data names
+dd
+BC
+xaxis
+#stimuli
+#noise

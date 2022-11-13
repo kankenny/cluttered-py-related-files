@@ -1,0 +1,9 @@
+50 # npoints actual file = 101
+0
+2.0 # actual step size = 1
+0
+./data.txt
+./BC_ones.txt
+-0.1.1000.,1e1, x
+#		
+2,1,30
