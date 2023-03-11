@@ -1,0 +1,18 @@
+neutrinos
+2,0,0,0,0,3
+# variable xx
+0.04*rr**3
+1
+#obj function   # measurement error
+BC*(xx - dd)**2+BC*(rr-tt)**2
+#states
+xx
+rr
+# PARAMETERS
+#control names
+#data names
+dd
+BC
+tt
+#stimuli
+#noise

@@ -1,0 +1,5 @@
+Seq	Host	Starttime	JobRuntime	Send	Receive	Exitval	Signal	Command
+3	:	1670192836.526	   380.246	0	0	255	0	srun --exclusive -N1 -n1 ./neutrinos_cpp  > neutrinos_cpp.log.3 2>&1
+2	:	1670192836.325	   380.569	0	0	255	0	srun --exclusive -N1 -n1 ./neutrinos_cpp  > neutrinos_cpp.log.2 2>&1
+4	:	1670192836.726	   380.974	0	0	255	0	srun --exclusive -N1 -n1 ./neutrinos_cpp  > neutrinos_cpp.log.4 2>&1
+1	:	1670192836.124	   381.618	0	0	255	0	srun --exclusive -N1 -n1 ./neutrinos_cpp  > neutrinos_cpp.log.1 2>&1
